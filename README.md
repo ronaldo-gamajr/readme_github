@@ -7,7 +7,7 @@
 
 - 💬 Pergunte-me sobre **Python, Excel, SQL, Algoritmos.**
 
-- 📫 Contate-me através do e-mail **ronaldo.profissinal@hotmail.com**
+- 📫 Contate-me através do e-mail **ronaldo.profissional@hotmail.com**
 
 - 📄 Conheça minhas experiências [www.linkedin.com/in/ronaldogamajr](www.linkedin.com/in/ronaldogamajr)
 
